@@ -1,0 +1,12 @@
+F:\Programming\SurfaceCalculator\SurfaceCalculator\bin\Debug\net6.0\SurfaceCalculator.deps.json
+F:\Programming\SurfaceCalculator\SurfaceCalculator\bin\Debug\net6.0\SurfaceCalculator.dll
+F:\Programming\SurfaceCalculator\SurfaceCalculator\bin\Debug\net6.0\SurfaceCalculator.pdb
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.csproj.AssemblyReference.cache
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.AssemblyInfoInputs.cache
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.AssemblyInfo.cs
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.csproj.CoreCompileInputs.cache
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.dll
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\refint\SurfaceCalculator.dll
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\SurfaceCalculator.pdb
+F:\Programming\SurfaceCalculator\SurfaceCalculator\obj\Debug\net6.0\ref\SurfaceCalculator.dll
