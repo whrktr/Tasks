@@ -1,0 +1,17 @@
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesLoader.Plugin.dll
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesViewer.Plugin.dll
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesViewer.Plugin.pdb
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesImport.Plugin.deps.json
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesImport.Plugin.dll
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\EmployeesImport.Plugin.pdb
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\PhoneApp.exe
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\PhoneApp.pdb
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\bin\Debug\netstandard2.0\PhoneApp.exe.config
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.csproj.AssemblyReference.cache
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.AssemblyInfoInputs.cache
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.AssemblyInfo.cs
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.csproj.CoreCompileInputs.cache
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImportPlugin.csproj.CopyComplete
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImport.Plugin.dll
+F:\Programming\Tasks\app\PhonePluginsApplication\EmployeesImportPlugin\obj\Debug\netstandard2.0\EmployeesImport.Plugin.pdb
